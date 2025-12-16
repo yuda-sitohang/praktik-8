@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "../pages/home";
-import Profile from "../pages/profile";
+import Home from "../pages/Home";
+import Profile from "../pages/Profile";
 import Contact from "../pages/Contact";
 import Navigation from "../components/Navigation";
 const RouterA = () => {

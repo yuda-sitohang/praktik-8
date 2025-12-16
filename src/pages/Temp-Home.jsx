@@ -1,12 +1,12 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
+import React from "react";
+import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
     <div className="page home-page">
       <h1>🏠 Welcome to Our Website</h1>
       <p>Ini adalah halaman home menggunakan React Router</p>
-      
+
       <div className="feature-cards">
         <div className="card">
           <h3>📖 About Us</h3>
